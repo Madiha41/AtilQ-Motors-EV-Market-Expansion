@@ -41,5 +41,5 @@ The project utilizes datasets on electric vehicle sales by state and by makers, 
 4. **Watch the Video**: Check out the video presentation for a guided tour of the dashboard.
 
 ## 🔗 Links
-[![portfolio](https://codebasics.io/portfolio/Madiha-Shaik)
-[![linkedin](https://www.linkedin.com/in/madihashaik?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV%2BLOyIuyR%2Be0QZRTy%2Fv9lg%3D%3D)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Madiha-Shaik)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-shaik-24871a204)
