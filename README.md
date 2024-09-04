@@ -40,4 +40,6 @@ The project utilizes datasets on electric vehicle sales by state and by makers, 
 3. **View the Presentation**: Download the PDF presentation to review the project overview and key findings.
 4. **Watch the Video**: Check out the video presentation for a guided tour of the dashboard.
 
-
+## 🔗 Links
+[![portfolio](https://codebasics.io/portfolio/Madiha-Shaik)
+[![linkedin](https://www.linkedin.com/in/madihashaik?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV%2BLOyIuyR%2Be0QZRTy%2Fv9lg%3D%3D)
